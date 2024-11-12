@@ -225,7 +225,7 @@ preLoad();
 function preLoad() {
 createAndSaveElement(
     "Bitcoin (2024)",
-    389376,
+    512799,
     "https://i.imgur.com/Kas85R1.jpeg"
   );
   createAndSaveElement(
